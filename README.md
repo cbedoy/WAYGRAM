@@ -1,19 +1,12 @@
-## Telegram messenger for Android
+## WAYGRAM messenger for Android
 
-[Telegram](http://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
+[WAYGRAM](http://www.facebook.com/carlos.bedoy) is a messaging app with a focus on speed and security. Also include a library for manage location service, for next reunion :D
 
-This repo contains official [Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger) source code.
 
-### API, Protocol documentation
+This project actually it's started for me Carlos Bedoy (Me)
 
-Documentation for Telegram API is available here: http://core.telegram.org/api
 
-Documentation for MTproto protocol is available here: http://core.telegram.org/mtproto
+carlos.bedoy@gmail.com
+carlos.cervantes@pademobile.com
 
-### Usage
-
-Import the root folder into your IDE (tested on Android Studio), then run project.
-
-### Localization
-
-We moved all translations to https://www.transifex.com/projects/p/telegram/. Please use it.
+:D
